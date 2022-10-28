@@ -2,12 +2,18 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@500&display=swap');
 
+/* global selector */
+
+* {
+    font-family: 'Hind Siliguri', sans-serif;
+
+}
+
 .faqTitleContainer {
     display: flex;
     justify-content: space-between;
     align-items: center;
     cursor: pointer;
-    font-family: 'Hind Siliguri', sans-serif;
 }
 
 /* changing selection color */
