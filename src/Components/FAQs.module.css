@@ -1,0 +1,10 @@
+.faqContainer {
+    width: 75%;
+    margin: 50px auto;
+    color: rgb(204, 204, 170);
+    padding: 40px;
+    border-radius: 50px;
+    background: linear-gradient(145deg, #373232, #413c3c);
+    box-shadow: 20px 20px 60px #343030,
+        -20px -20px 60px #464040;
+}

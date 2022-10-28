@@ -1,0 +1,21 @@
+/* importing font */
+
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@500&display=swap');
+
+.faqTitleContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+/* changing selection color */
+
+::-moz-selection {
+    background: rgb(13, 104, 69);
+}
+
+::selection {
+    background: rgb(13, 104, 69);
+}
